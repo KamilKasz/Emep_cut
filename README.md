@@ -8,3 +8,5 @@ Folder with sample data called "EMEP2019" has been added.
 Script can be easily modified to work with other text files than EMEP files. 
 
 Function ignore_files was used from geegsforgeeks (https://www.geeksforgeeks.org/python-copy-directory-structure-without-files/)
+
+This is also my first public repository :)
