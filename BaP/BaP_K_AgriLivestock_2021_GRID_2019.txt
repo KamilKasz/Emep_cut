@@ -1,5 +1,0 @@
-# Content: BaP K_AgriLivestock grid 2019 emissions in Mg
-# Generated: 03.09.2021 13:41:01
-# Datasource: EMEP/CEIP 2021, Spatially distributed emission data as used in EMEP models
-# Terms of reference: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en)
-# Format: ISO2;YEAR;SECTOR;POLLUTANT;LONGITUDE;LATITUDE;UNIT;EMISSION
